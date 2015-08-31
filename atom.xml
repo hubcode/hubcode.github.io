@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://hubcode.github.io/atom.xml" rel="self"/>
+  <link href="http://hubcode.github.io/"/>
+  <updated>2015-08-31T16:14:13+08:00</updated>
+  <id>http://hubcode.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Geek's Blog]]></title>
+    <link href="http://hubcode.github.io/blog/2015/08/31/liuyashuai/"/>
+    <updated>2015-08-31T12:38:25+08:00</updated>
+    <id>http://hubcode.github.io/blog/2015/08/31/liuyashuai</id>
+    <content type="html"><![CDATA[<h1>你好，刘亚帅</h1>
+
+<h2>你好 你可以学到你想要的</h2>
+
+<ul>
+<li><strong>Android</strong>
+
+<ul>
+<li>http</li>
+<li>sqllite3</li>
+</ul>
+</li>
+<li><strong>PHP</strong>
+
+<ul>
+<li><strong>HTML</strong></li>
+</ul>
+</li>
+<li><blockquote><p>引用</p></blockquote></li>
+</ul>
+
+
+<p><a href="http://www.baidu.com">百度</a></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>public class Hello{
+</span><span class='line'>  public void main(String[] args){
+</span><span class='line'>      System.out.println("hello liuyashuai");
+</span><span class='line'>  }
+</span><span class='line'>}</span></code></pre></td></tr></table></div></figure>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
